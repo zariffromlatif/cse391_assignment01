@@ -1,0 +1,65 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Md. Zarif Latif
+Student ID: 24341187
+Assignment: 01
+Date: 30/06/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[x] Google Gemini
+[x] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[x] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+I used ai to understand my concepts of html & css. Also Used to design the website using css and javascript. I used ai with understanding the code totally. I did not used ai to generate direct code but learning the html and css.
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: index.html        Section: _________________
+File: style.css         Section: _________________
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: _Md. Zarif Latif______
+Date: ___29/06/2026______________
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
